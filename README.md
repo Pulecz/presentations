@@ -19,6 +19,8 @@ python2
 
 **.. sourcecode:: [python, plain, ...]** - do syntax higlight for block of code
 
+**.. image:: path to img** - insert img
+
 ## Editing css
 
 #### ui/small-black/pretty.css
