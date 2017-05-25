@@ -4,7 +4,10 @@ Forked from [Parsely/python-nlp-slides](https://github.com/Parsely/python-nlp-sl
 
 Presentations are written in rst, then compiled to html presentations with choosen css theme.
 # requirements
-python2
+
+* python2
+* pygments
+* docutils
 
 # usage
 1. edit index.rst or any other rst to write your presentations, see formatting below for details how

@@ -41,7 +41,7 @@ Why did I start?
 
   - so I wanted to give back my knowledge to young students
 
-  - so they start soon, while they have time
+  - so they can start soon, while they still have time
 
 - In Work
 
@@ -50,6 +50,8 @@ Why did I start?
   - they have no idea how easy can it really be
 
   - let's try to teach them, so they at least have an idea that its possible
+
+- In general, knowing how to use Python is a useful skill
 
 Why Python?
 -----------
@@ -69,17 +71,23 @@ Why Python?
 
   - Highly portable
 
-    - Runs almost anywhere
+    - runs almost anywhere
 
   - Community
 
-    - Popular and discussed language, PyCons all over the world
+    - popular and discussed language, PyCons all over the world
 
   - Future
 
-    - Open source project - lots of people contributing
+    - open source project - lots of people contributing
 
-    - Latest version is Python 3.6.0 with lots of powerful modules
+    - latest version is Python 3.6.0 with lots of powerful modules
+
+Can I teach?
+------------
+
+.. image:: img/albert-einstein-if-you-cant-explain-it-simply-you-dont-understand-it-well-enough.png
+            :align: center
 
 High school
 -----------
@@ -88,9 +96,9 @@ High school
 
 - small school only few students interested at first
 
-- started in February, 90 minutes after they finished regular classes
+- started in February, one day in week, 90 minutes after they finished regular classes
 
-- students have experience with PHP HTML, CSS and JavaScript
+- students have experience with PHP, HTML, CSS and JavaScript
 
 - testing grounds
 
@@ -112,7 +120,7 @@ In work
 
 - high demand for it
 
-- complete beginners
+- targeted complete beginners
 
 - tesing course, 4 hours every Friday for 6 weeks
 
@@ -121,9 +129,11 @@ In work
 Common Issues
 -------------
 
+.. class:: incremental
+
 - Technical
 
-  - PC, Mac, number of Linux distrubutions - everybody has different version
+  - Windows, Mac, number of Linux distrubutions - everybody has different version
 
   - school and work limitations, is it allowed?..
 
@@ -131,12 +141,16 @@ Common Issues
 
   - different skills
 
-  - what it really takes, motivation or project in mind?
+  - motivation, project in mind?
+
+  - continue learning their free time
 
   - building common vocabulary
 
 Improvements
 ------------
+
+.. class:: incremental
 
 - VirtualBox and Arch Linux image with prepared software
 

@@ -4,7 +4,7 @@
 Python in Unreal Engine 4
 ===========================
 
-.. image:: img/python-logo-master-v3-TM.png
+.. image:: img/ue4_python.png
             :align: center
 
 .. This document is taken from https://github.com/Parsely/python-nlp-slides
@@ -43,11 +43,34 @@ UnrealEnginePython_ is a plugin embedding whole Python VM (both 3 and 2) to UE4
 
 - not meant as a way to avoid blueprints or c++ but as a good companion to them
 
-What are blueprints and c++ in UE4?
+- currently supported Unreal Engine versions are 4.12, 4.13, 4.14, 4.15 and 4.16
+
+- works on Linux, Mac, Windows
+
+What are blueprints and C++ in UE4?
 -----------------------------------
 
--Blueprints - visual programing
+- Blueprints - visual programing, node based interface
 
+- C++ for writing new gameplay classes and exposing interface for blueprints
+
+Working with it
+---------------
+
+Adds classes:
+  - actor class (PyActor)
+  - pawn class (PyPawn)
+  - character class (PyCharacter)
+  - component class (PythonComponent)
+
+then link to script
+
+many more
+
+Showcase
+--------
+
+hopefully
 
 Conclusion
 ----------
