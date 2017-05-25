@@ -47,7 +47,7 @@ Why did I start?
 
   - lots of people doing work in unnecessarily complex way
 
-  - they no idea how easy can it really be
+  - they have no idea how easy can it really be
 
   - let's try to teach them, so they at least have an idea that its possible
 
@@ -138,9 +138,17 @@ Common Issues
 Improvements
 ------------
 
+- VirtualBox and Arch Linux image with prepared software
+
+  - ipython
+  - jupyter notebook
+  - etc.
+
 - let students study materials before
 
 - after having some basic skills, practice, practice, practice (if there is time)
+
+- final evaluation - a project
 
 Conclusion
 ----------
