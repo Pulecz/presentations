@@ -3,6 +3,22 @@
 Forked from [Parsely/python-nlp-slides](https://github.com/Parsely/python-nlp-slides)
 
 Presentations are written in rst, then compiled to html presentations with choosen css theme.
+# requirements
+python2
+
+# usage
+1. edit index.rst or any other rst to write your presentations, see formatting below for details how
+
+2. then run build.sh and name of your rst, without ".rst". If no paramater is provided index is used
+
+## formatting
+
+*more will be added later*
+
+**.. class:: incremental** - the page moves one element at a time
+
+**.. sourcecode:: [python, plain, ...]** - do syntax higlight for block of code
+
 ## Editing css
 
 #### ui/small-black/pretty.css
@@ -10,7 +26,7 @@ Presentations are written in rst, then compiled to html presentations with choos
 Line 5 - background and text color
 ```css
 body {background: DimGray; color: white;}```
-
+```
 Line 60,61 - color for a text which did not appear yet (when using .. class:: incremental)
 ```css
 .incremental, .incremental *, .incremental *:after {
