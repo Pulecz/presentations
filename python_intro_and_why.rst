@@ -153,7 +153,7 @@ C Hello World
 
 .. sourcecode:: c
 
-  #include
+  #include <stdio.h>
 
   int main(void)
   {
