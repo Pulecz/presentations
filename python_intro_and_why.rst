@@ -75,7 +75,7 @@ Why Python?
 
     - Open source project - lots of people contributing
 
-    - Latest version is Python 3.6.0 with thousands of modules
+    - Latest version is Python 3.6.2 with thousands of modules
 
 Design Philosophy
 -----------------
@@ -131,7 +131,9 @@ Don't reinvent the wheel
 
 PyPI - the Python Package Index
 
-02.03.2016 - 99851 packages
+02.03.2017 - 99851 packages
+
+03.10.2017 - 118436 packages
 
 https://pypi.python.org/pypi
 
@@ -213,32 +215,19 @@ check https://www.python.org/about/success/
 
 - A Glue Language
 
-Practice!
----------
+Practice begins!
+----------------
 
-Either type more now, type less later:
-
-.. sourcecode:: bash
-
-  cd python-root
-  cd skoleni-python
-  source bin/activate
-  jupyter notebook
-
-Or run:
+Run:
 
 .. sourcecode:: bash
 
   ipython
 
-and type a lot
+Or clone repo and start jupyter notebook:
 
-Next: Python 02
----------------
+.. sourcecode:: bash
 
-10.3.
-
-- More basics
-- Functions
-- More pratice
-- First real "program"
+  git clone https://github.com/archclassroom/python-beginners.git
+  cd python-beginners
+  jupyter notebook
