@@ -23,23 +23,12 @@ Python 01
 .. _reStructuredText: http://docutils.sourceforge.net/rst.html
 .. _S5: http://meyerweb.com/eric/tools/s5/
 
-Before we start
----------------
-
-- Install Virtualbox
-- Import vboxarch.ova
-
-login: user
-
-password: demo
-
-After login, do command "startx" for X
-
 What is Python?
 ---------------
 
 - A widely used high-level programming language for general-purpose programming
-- Open source and community based development model
+- Open source and has community based development model
+- Multi-paradigm: OO, structured, (Functional, aspect-oriented), [Meta(magic methods)]
 - Created in 1990 by Guido van Rossum and named after Monty Python
 
 .. image:: img/IMG_2192.jpg
@@ -75,7 +64,7 @@ Why Python?
 
     - Open source project - lots of people contributing
 
-    - Latest version is Python 3.6.2 with thousands of modules
+    - Latest version is Python 3.6.5 with thousands of modules
 
 Design Philosophy
 -----------------
@@ -131,11 +120,13 @@ Don't reinvent the wheel
 
 PyPI - the Python Package Index
 
-02.03.2017 - 99851 packages
+02.03.2017 - 99 851 packages
 
-03.10.2017 - 118436 packages
+03.10.2017 - 118 436 packages
 
-https://pypi.python.org/pypi
+27.06.2018 - 114 141 projects
+
+https://pypi.org/
 
 Popularity
 ----------
@@ -145,6 +136,11 @@ Popularity
               :align: right
 
   http://pypl.github.io/PYPL.html
+
+  Trends_
+
+.. _Trends: https://trends.google.com/trends/explore?date=all&q=Python,%2Fm%2F060kv,%2Fm%2F02p97,C%2B%2B,Java
+
 
 Differences
 -----------
@@ -195,38 +191,43 @@ What is it used for?
 --------------------
 .. class:: incremental
 
-check https://www.python.org/about/success/
+Visit:
+    - About_Apps_
+    - About_Success_
+    - Brochure_
 
 - Rapid Prototyping
 
-- Throw-away, Ad hoc Programming
+- Data processing/analysis
+
+- Machine Learning
 
 - Scientific Applications
 
-- Extension language
+- Extensions
 
 - Backend Web
 
-- XML processing
-
-- Database applications
-
-- GUI applications
+- GUI, Web, Database applications
 
 - A Glue Language
+
+.. _About_Apps: https://www.python.org/about/apps/
+.. _About_Success: https://www.python.org/about/success/
+.. _Brochure: https://brochure.getpython.info/
 
 Practice begins!
 ----------------
 
 Run:
 
-.. sourcecode:: bash
+.. sourcecode:: python
 
   ipython
 
 Or clone repo and start jupyter notebook:
 
-.. sourcecode:: bash
+.. sourcecode:: python
 
   git clone https://github.com/archclassroom/python-beginners.git
   cd python-beginners
